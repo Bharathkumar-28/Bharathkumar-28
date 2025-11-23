@@ -28,9 +28,9 @@ Here are the tools I work with:
 ### Automation & Tools:
 ![UiPath](https://img.shields.io/badge/-UiPath-8A3DFF?style=flat&logo=uipath&logoColor=white)
 
-### 3D Visualization & Data Visualization:
+### 3D Visualization
 ![Chart.js](https://img.shields.io/badge/-Chart.js-F5793A?style=flat&logo=chart.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+
 
 ---
 
